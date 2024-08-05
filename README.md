@@ -1,6 +1,6 @@
 # ECS Help Desk - Streamlining Support with MERN
 
-Welcome to ECS Help Desk, a comprehensive Fullstack MERN website designed to revolutionize customer support for [Company Name]. This project aims to enhance communication, streamline ticketing processes, and provide an intuitive knowledge base for quick problem resolution.
+Welcome to ECS Help Desk, a comprehensive Fullstack MERN website designed to revolutionize customer support. This project aims to enhance communication, streamline ticketing processes, and provide an intuitive knowledge base for quick problem resolution.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Follow these steps to set up and run the project on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Fery2003/Help-Desk.git
    cd Help-Desk
    ```
 
